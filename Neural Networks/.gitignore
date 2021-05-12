@@ -1,0 +1,25 @@
+# dont track these files
+__pycache__
+SourceCodeLatex
+.vscode
+Project1
+# git has its own built in compression methods
+*.7z
+*.dmg
+
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.so
